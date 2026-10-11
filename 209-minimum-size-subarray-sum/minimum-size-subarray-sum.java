@@ -3,7 +3,7 @@ class Solution {
         // total < taget (expand) r++
         // total >= taget (store min length and shrink) l++ 
 
-      int res = nums.length+1;
+      int res = nums.length+1; // can take Integer.MAX_VALUE       
       int total=0 , l = 0 ;
       for(int r = 0 ; r < nums.length ;r++){
         total += nums[r];
