@@ -13,8 +13,10 @@ class Solution {
             l++;
         }
       }
-      if(res == Integer.MAX_VALUE) return 0;
-      else return res;
+      if(res == Integer.MAX_VALUE) 
+            return 0;
+      else
+       return res;
 
     }
 }
