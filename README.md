@@ -75,8 +75,9 @@ My focus is not just on solving problems, but also on understanding **why a solu
 
 ## 🔗 Connect With Me
 
-- **GitHub:** [Your GitHub Profile](https://github.com/YOUR_USERNAME)
-- **LeetCode:** [My LeetCode Profile](https://leetcode.com/u/YOUR_USERNAME/)
+- **GitHub:** [Your GitHub Profile](https://github.com/sarthakseth80)
+- **LeetCode:** [My LeetCode Profile](https://leetcode.com/u/sarthak_seth/)
+- **LinkedIn:**[My LinkedIn Profile](https://github.com/sarthakseth80)
 
 ---
 
