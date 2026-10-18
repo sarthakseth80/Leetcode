@@ -104,4 +104,8 @@ My focus is not just on solving problems, but also on understanding **why a solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthakseth80/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/sarthakseth80/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
