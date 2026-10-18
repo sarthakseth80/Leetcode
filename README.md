@@ -84,3 +84,15 @@ My focus is not just on solving problems, but also on understanding **why a solu
 ⭐ This repository represents my continuous learning journey in DSA. Every problem is an opportunity to learn something new, improve my approach, and become a better programmer.
 
 **Consistency over perfection. One problem at a time!** 💻
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/sarthakseth80/Leetcode/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/sarthakseth80/Leetcode/tree/main/0001-two-sum/) | Easy |
+<!---LeetCode Topics End-->
