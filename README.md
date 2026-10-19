@@ -91,6 +91,7 @@ My focus is not just on solving problems, but also on understanding **why a solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sarthakseth80/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/sarthakseth80/Leetcode/tree/main/0015-3sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,4 +109,12 @@ My focus is not just on solving problems, but also on understanding **why a solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/sarthakseth80/Leetcode/tree/main/0007-reverse-integer/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/sarthakseth80/Leetcode/tree/main/0015-3sum/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/sarthakseth80/Leetcode/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
